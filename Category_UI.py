@@ -74,7 +74,7 @@ toCheck = [r'The import was rejected in strict mode with the following error cod
            r'Provider NameProvider IDRating and Category fields are required for automatic scheduling.Unknown <Category> '
            r'in Title asset.Unknown <Category> in Title asset.']
 metadIssue = ['Unable to create new schedule entry: Provider NameProvider IDRating and Category fields are required '
-              'for automatic scheduling.','WorkflowException: Unable to update WorkflowInstance.']
+              'for automatic scheduling.','WorkflowException: Unable to update WorkflowInstance.','Unable to create new schedule entry: Failed to instantiate the Group instance for the group ID: GREAT_LAKES and the clientID: Charter_Denver']
 
 category_check = {}
 reporting_check = {}
